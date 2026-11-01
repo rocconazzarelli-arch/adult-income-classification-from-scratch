@@ -1,0 +1,8 @@
+jax
+jaxlib
+joblib
+jupyterlab
+matplotlib
+numpy
+pandas
+scikit-learn
